@@ -1,6 +1,6 @@
 # Supply chain Contracts
 
-### 🏗️ Building
+###  Building
 
 ```sh
 cargo b -p "supply-chain*"
