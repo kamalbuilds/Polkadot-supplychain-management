@@ -14,6 +14,8 @@ This supply chain dApp on Polkadot leverages the unique features of the Polkadot
 
 - **Integration with External Systems**: The dApp might integrate with external systems and IoT devices for real-time tracking of goods, temperature monitoring during transport, or ensuring that products meet certain standards or certifications.
 
+### Demo Video
+
 ### Smart Contracts in Detail
 
 In Polkadot supply chain management dApp, smart contract is crucial for:
